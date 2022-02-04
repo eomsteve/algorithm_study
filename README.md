@@ -15,7 +15,4 @@
 
 [코테 주제별 문제들](https://covenant.tistory.com/234?category=727170)
 
-## 자료구조 참고
-
-[자료구조](https://www.notion.so/fb000a2f062b41c28557888c9146b687)
 
