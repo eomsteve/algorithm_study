@@ -18,7 +18,7 @@ for i in range(9):
     if is_find == 1:
         break
 for i in range(7):
-    for j in range(i + 1, 7):
+    for j in range(i+1, 7):
         if tall[i] > tall[j]:
             tall[i], tall[j] = tall[j], tall[i]
 for i in range(7):
